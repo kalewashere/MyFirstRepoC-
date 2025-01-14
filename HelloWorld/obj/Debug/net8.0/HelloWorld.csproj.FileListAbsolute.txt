@@ -1,0 +1,15 @@
+/workspaces/MyFirstRepoC-/HelloWorld/bin/Debug/net8.0/HelloWorld
+/workspaces/MyFirstRepoC-/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/workspaces/MyFirstRepoC-/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/workspaces/MyFirstRepoC-/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/workspaces/MyFirstRepoC-/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/workspaces/MyFirstRepoC-/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/MyFirstRepoC-/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/workspaces/MyFirstRepoC-/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/workspaces/MyFirstRepoC-/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/workspaces/MyFirstRepoC-/HelloWorld/obj/Debug/net8.0/HelloWorld.sourcelink.json
+/workspaces/MyFirstRepoC-/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/workspaces/MyFirstRepoC-/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/workspaces/MyFirstRepoC-/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/workspaces/MyFirstRepoC-/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/workspaces/MyFirstRepoC-/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
